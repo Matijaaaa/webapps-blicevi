@@ -5,4 +5,5 @@ const funkcija2 = (string3) => {
     string2.sort();
     console.log(string3);
 };
+
 funkcija();
